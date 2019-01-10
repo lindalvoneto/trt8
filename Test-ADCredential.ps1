@@ -39,3 +39,7 @@ function Test-ADCredential {
         $DS.ValidateCredentials($UserName, $Password)
     }
 }
+
+<#
+alteração 2
+#>
