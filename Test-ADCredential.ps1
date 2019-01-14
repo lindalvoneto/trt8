@@ -43,4 +43,5 @@ function Test-ADCredential {
 <#
 alteração 2
 alteração 3
+alteração 3
 #>
